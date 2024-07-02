@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/neemanoushad/Campus-Stay,https://github.com/neemanoushad/FoodTruck](https://github.com/neemanoushad/Campus-Stay,https://github.com/neemanoushad/FoodTruck)
+- 👨‍💻 All of my projects are available at [https://github.com/neemanoushad/Campus-Stay,https://github.com/neemanoushad/FoodTruck](https://github.com/neemanoushad/Campus-Stay)
 
 - 📫 How to reach me **neemanafeesath@gmail.com**
 
